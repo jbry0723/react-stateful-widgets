@@ -15,6 +15,7 @@ Find comments below to help you along.
 */
 
 import React from 'react';
+import { useState } from 'react';
 
 // Use this variable ONLY to initialize a slice of state!
 const listOfSquareIds = ['sqA', 'sqB', 'sqC', 'sqD'];
